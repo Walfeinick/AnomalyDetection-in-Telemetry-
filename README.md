@@ -1,6 +1,6 @@
 # Anomaly Detection in Telemetry
 
-## ENG
+# ENG
 
 ## Main task
 The goal is to create production level model for detecting new context and multivariate anomalies in telemetry data using only classic ML
@@ -9,7 +9,7 @@ This project uses SMD dataset as main data source for training and testing creat
 ## Architecture
 
 
-## RUS
+# RUS
 ## Главная задача
 Целью проекта является создание модели продакшн уровня для обнаружения контекстных и мультивариантных аномалий по данным телеметрии, используя только методы классического машинного обучния, без DL.
 ## Данные
